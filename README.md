@@ -1,8 +1,7 @@
 # severstal-aiijc
 Predicting timeliness of material supply. A solution for AI Chalenge problem "Production".
 
-### Presentation:
-  https://docs.google.com/presentation/d/1WFIUvZ5UcqbBQkTUxzn2-FB1Oor4eIVEr8LzDCZ6aZI/edit#slide=id.p
+#### Presentation: https://docs.google.com/presentation/d/1WFIUvZ5UcqbBQkTUxzn2-FB1Oor4eIVEr8LzDCZ6aZI/edit#slide=id.p
 
 # Dashboard demo
 #### Prediction explanation
